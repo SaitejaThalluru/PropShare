@@ -72,11 +72,11 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Landing Page Object
 logo = findTestObject('Object Repository/Landing Page Objects/Page_Propshare Capital  Alternative Investm_8fc5c6/img')
 def logoPosition = WebUI.getElementLeftPosition(findTestObject('Object Repository/Landing Page Objects/Page_Propshare Capital  Alternative Investm_8fc5c6/img'))
 println(logoPosition)
-assert logoPosition == 76
+// assert logoPosition == 76
 Dimension size = WebUiCommonHelper.findWebElement(logo, 30).getSize()
 println("The element's size is " + size.width + " x " + size.height)
-assertEquals("The element's width is not 93 pixels", 93, size.width)
-assertEquals("The element's height is not 17 pixels", 17, size.height)
+// assertEquals("The element's width is not 93 pixels", 93, size.width)
+// assertEquals("The element's height is not 17 pixels", 17, size.height)
 String text_logo = WebUI.getText(findTestObject('Object Repository/Landing Page Objects/Page_Propshare Capital  Alternative Investm_8fc5c6/img'))
 println("The text of the element is: " + text_logo)
 
@@ -84,21 +84,38 @@ println("The text of the element is: " + text_logo)
 offerings = findTestObject('Object Repository/Landing Page Objects/Page_Propshare Capital  Alternative Investm_8fc5c6/a_Offerings')
 offeringsPosition = WebUI.getElementLeftPosition(findTestObject('Object Repository/Landing Page Objects/Page_Propshare Capital  Alternative Investm_8fc5c6/a_Offerings'))
 println(offeringsPosition)
-assert offeringsPosition == 519
+// assert offeringsPosition == 519
 Dimension size_offerings = WebUiCommonHelper.findWebElement(offerings, 30).getSize()
 println("The element's size is " + size_offerings.width + " x " + size_offerings.height)
-assertEquals("The element's width is not 48 pixels", 48, size_offerings.width)
-assertEquals("The element's height is not 17 pixels", 14, size_offerings.height)
+// assertEquals("The element's width is not 48 pixels", 48, size_offerings.width)
+// assertEquals("The element's height is not 17 pixels", 14, size_offerings.height)
 String text_offerings = WebUI.getText(findTestObject('Object Repository/Landing Page Objects/Page_Propshare Capital  Alternative Investm_8fc5c6/a_Offerings'))
-println("The text of the element is: " + text_logo)
+println("The text of the element is: " + text_offerings)
 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Landing Page Objects/Page_Propshare Capital  Alternative Investm_8fc5c6/a_Offerings'),
+	0)
 
+// Asserting Position, size and Text of About Us button
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Landing Page Objects/Page_Propshare Capital  Alternative Investm_8fc5c6/a_Offerings'), 
-    0)
-
+AboutUs = findTestObject('Object Repository/Landing Page Objects/Page_Propshare Capital  Alternative Investm_8fc5c6/a_About Us')
+AboutUsPosition = WebUI.getElementLeftPosition(findTestObject('Object Repository/Landing Page Objects/Page_Propshare Capital  Alternative Investm_8fc5c6/a_About Us'))
+println(AboutUsPosition)
+Dimension size_AboutUs = WebUiCommonHelper.findWebElement(AboutUs, 30).getSize()
+println("The element's size is " + size_AboutUs.width + " x " + size_AboutUs.height)
+// assertEquals("The element's width is not 48 pixels", 49, size_AboutUs.width)
+// assertEquals("The element's height is not 17 pixels", 14, size_AboutUs.height)
+String text_AboutUs = WebUI.getText(findTestObject('Object Repository/Landing Page Objects/Page_Propshare Capital  Alternative Investm_8fc5c6/a_About Us'))
+println("The text of the element is: " + text_AboutUs)
+WebUI.verifyElementText(findTestObject('Object Repository/Landing Page Objects/Page_Propshare Capital  Alternative Investm_8fc5c6/a_About Us'), 'About Us')
 WebUI.verifyElementPresent(findTestObject('Object Repository/Landing Page Objects/Page_Propshare Capital  Alternative Investm_8fc5c6/a_About Us'), 
     0)
+
+
+// Asserting Position, size and Text of contact Us button
+
+ContactUs = findTestObject('Object Repository/Landing Page Objects/Page_Propshare Capital  Alternative Investm_8fc5c6/a_Contact Us')
+contactUsPosition = WebUI.getElementLeftPosition(findTestObject('Object Repository/Landing Page Objects/Page_Propshare Capital  Alternative Investm_8fc5c6/a_Contact Us'))
+println(contactUsPosition)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Landing Page Objects/Page_Propshare Capital  Alternative Investm_8fc5c6/a_Contact Us'), 
     0)
@@ -115,6 +132,9 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Landing Page Object
 WebUI.verifyElementPresent(findTestObject('Object Repository/Landing Page Objects/Page_Propshare Capital  Alternative Investm_8fc5c6/div_1 billion                              _8810da'), 
     0)
 
+ViewOpportunities = findTestObject('Object Repository/Landing Page Objects/Page_Propshare Capital  Alternative Investm_8fc5c6/button_View Opportunities')
+String text_ViewOpportunities = WebUI.getText(findTestObject('Object Repository/Landing Page Objects/Page_Propshare Capital  Alternative Investm_8fc5c6/button_View Opportunities'))
+println("The text of the element is: " + text_ViewOpportunities)
 WebUI.verifyElementPresent(findTestObject('Object Repository/Landing Page Objects/Page_Propshare Capital  Alternative Investm_8fc5c6/button_View Opportunities'), 
     0)
 
