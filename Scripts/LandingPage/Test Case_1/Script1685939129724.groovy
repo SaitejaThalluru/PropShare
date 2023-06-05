@@ -16,4 +16,34 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.testobject.TestObject
+
+// Open the homepage
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://staging.propsharecapital.com/')
+
+WebUI.maximizeWindow()
+
+WebUI.waitForPageLoad(30)
+
+WebUI.takeScreenshot()
+
+int scrollPosition = 0
+
+int scrollIncrement = 500
+
+int totalScrolls = 9
+
+for (int i = 0; i < totalScrolls; i++) {
+	scrollPosition = scrollPosition + scrollIncrement
+	String scrollScript = "window.scrollTo(0, ${scrollPosition})"
+	WebUI.executeJavaScript(scrollScript, null)
+	WebUI.takeScreenshot()
+	WebUI.delay(1) 
+}
+
+WebUI.closeBrowser()
+
 

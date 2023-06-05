@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Our Investors Are Our Partners_img-wrap_1accea</name>
+   <tag></tag>
+   <elementGuidId>f8514582-e5b9-4828-904d-bace717fe20a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.img-wrapper.jll-block</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='slick-slide10']/div/div/div/div[5]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6d95e954-1588-4a57-a4f9-793415d6975a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-wrapper jll-block</value>
+      <webElementGuid>b094eee3-9335-4bad-ae7d-b22162aee503</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slick-slide10&quot;)/div[1]/div[@class=&quot;investor-work-location-list&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;company&quot;]/div[@class=&quot;img-wrapper jll-block&quot;]</value>
+      <webElementGuid>b05e4873-a498-49ce-9026-466304e53ecd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='slick-slide10']/div/div/div/div[5]/div/div</value>
+      <webElementGuid>b6f80910-b8ff-4831-8617-48a18a9dcb1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[5]/div/div</value>
+      <webElementGuid>6cb28300-b5f8-4395-ad5f-26ce5aa26168</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

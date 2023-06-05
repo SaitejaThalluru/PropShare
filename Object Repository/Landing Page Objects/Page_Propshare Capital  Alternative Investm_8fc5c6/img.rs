@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>b1e6f1b6-14bd-4f83-a1d0-406b727905b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.navbar-brand > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[contains(@src,'https://staging.propsharecapital.com/images/logos/ps-capital.svg')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>f7d033b0-5f51-449d-b9e2-7dda8d062719</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://staging.propsharecapital.com/images/logos/ps-capital.svg</value>
+      <webElementGuid>bce7ffcc-38d7-47e2-a873-f4aeefe7b8b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[@class=&quot;header--fixed header--animation headeranimation--pinned&quot;]/nav[@class=&quot;navbar navbar-expand-lg navbar-white&quot;]/div[@class=&quot;container&quot;]/a[@class=&quot;navbar-brand&quot;]/img[1]</value>
+      <webElementGuid>0b5808b1-4522-43db-b54a-4f7cd3b04d49</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://staging.propsharecapital.com/images/logos/ps-capital.svg')]</value>
+      <webElementGuid>c22c970b-667e-41db-abf7-eb0d3d20b059</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/img</value>
+      <webElementGuid>651ac776-31c3-4647-bfab-182002bb41da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://staging.propsharecapital.com/images/logos/ps-capital.svg']</value>
+      <webElementGuid>dea1c1e5-4b38-4299-a041-f2117e7d9f0a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

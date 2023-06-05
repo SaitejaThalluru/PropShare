@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Our Investors Are Our Partners_company</name>
+   <tag></tag>
+   <elementGuidId>ec2d099d-c83d-4c40-afbf-aa6ec74b75b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='slick-slide10']/div/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>977de12b-3ead-49a6-b2bd-8f64758eafbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>company</value>
+      <webElementGuid>9930c711-6c1e-4f70-985f-d757fec6ee79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slick-slide10&quot;)/div[1]/div[@class=&quot;investor-work-location-list&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;company&quot;]</value>
+      <webElementGuid>91b3f80f-bb64-4154-84b5-58657fa94a8d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='slick-slide10']/div/div/div/div[2]/div</value>
+      <webElementGuid>04d1a0da-bf93-4567-bcb3-ae4c848b3d28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Investors Are Our Partners'])[1]/following::div[16]</value>
+      <webElementGuid>367a838f-f809-4813-a8bf-e0f5a3190e10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Opportunities'])[2]/following::div[20]</value>
+      <webElementGuid>2f3d83b2-5030-4c50-9005-16013d5d2ba1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Become an Investor'])[2]/preceding::div[131]</value>
+      <webElementGuid>4633c547-bbec-4297-95d4-32ab07fb9415</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Backers'])[1]/preceding::div[133]</value>
+      <webElementGuid>82bdccea-dd87-4330-850e-c57e2fdecd06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div[2]/div</value>
+      <webElementGuid>6606fb3b-39bc-4433-87da-db127f8359e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
