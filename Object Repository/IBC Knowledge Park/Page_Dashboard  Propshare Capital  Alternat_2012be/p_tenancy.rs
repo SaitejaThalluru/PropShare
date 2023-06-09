@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_tenancy</name>
+   <tag></tag>
+   <elementGuidId>3e16e436-cfe7-4e01-8abf-893a13cb1d27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='IBC Knowledge Park'])[1]/following::p[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>76570dc5-e7f6-4c24-b4e7-31ed5ed6f92c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>tenancy</value>
+      <webElementGuid>b375913e-269b-4329-bd10-8da4bb4ef848</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row zero-margin-row-container&quot;]/div[@class=&quot;col-md-10 offset-md-1 offset-sm-0 col-sm-12 col-12 offset-0 no-padding&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row zero-margin-row-container&quot;]/div[@class=&quot;col-md-10 offset-md-1 col-12  overview_content no-padding investment_myproperties investment_myproperties_hidden&quot;]/div[@class=&quot;size-restriction&quot;]/div[@class=&quot;investment_tab_list&quot;]/div[@class=&quot;row property_details&quot;]/div[@class=&quot;col-sm-12 property_indi_details&quot;]/div[@class=&quot;property-detials-tabs&quot;]/ul[@class=&quot;property_list_details&quot;]/li[3]/a[1]/div[@class=&quot;options&quot;]/p[1]</value>
+      <webElementGuid>9a64f5c1-c4bb-48d7-8475-32b2c7dc493f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IBC Knowledge Park'])[1]/following::p[3]</value>
+      <webElementGuid>50c37fce-5717-4a56-b6b2-6f70fdbcf243</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to Dashboard'])[1]/following::p[3]</value>
+      <webElementGuid>429dbf64-2a16-4291-b34d-e86ddee5078f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='view floor plan'])[1]/preceding::p[13]</value>
+      <webElementGuid>1f18ac4e-5f9a-4bb4-9026-c1e9afcf1eba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='location'])[1]/preceding::p[13]</value>
+      <webElementGuid>d61697c4-0710-48c3-8e90-20596ba710c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='tenancy']/parent::*</value>
+      <webElementGuid>18672d70-5e71-4c1d-9908-8065d91da524</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/div/p</value>
+      <webElementGuid>ef1eacf1-1c40-400c-a10d-e7c744879ecf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'tenancy' or . = 'tenancy')]</value>
+      <webElementGuid>09e1b44e-97fd-4143-b78d-19a837e08433</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

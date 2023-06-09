@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_documents</name>
+   <tag></tag>
+   <elementGuidId>97b7802b-8b29-4651-995d-64fd6f68a6bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='IBC Knowledge Park'])[1]/following::p[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e25de4a9-4a9f-4497-8833-dc4119f4ad6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>documents</value>
+      <webElementGuid>beddd6e9-43d6-42cf-b16e-916904d6c304</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row zero-margin-row-container&quot;]/div[@class=&quot;col-md-10 offset-md-1 offset-sm-0 col-sm-12 col-12 offset-0 no-padding&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row zero-margin-row-container&quot;]/div[@class=&quot;col-md-10 offset-md-1 col-12  overview_content no-padding investment_myproperties investment_myproperties_hidden&quot;]/div[@class=&quot;size-restriction&quot;]/div[@class=&quot;investment_tab_list&quot;]/div[@class=&quot;row property_details&quot;]/div[@class=&quot;col-sm-12 property_indi_details&quot;]/div[@class=&quot;property-detials-tabs&quot;]/ul[@class=&quot;property_list_details&quot;]/li[5]/a[1]/div[@class=&quot;options&quot;]/p[1]</value>
+      <webElementGuid>2e00cec1-7de7-43de-ab3b-200b52fa086e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IBC Knowledge Park'])[1]/following::p[5]</value>
+      <webElementGuid>dddaed44-8f61-4697-b3fc-5a8d7faec015</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to Dashboard'])[1]/following::p[5]</value>
+      <webElementGuid>11c9fafe-3330-42f2-a719-9285b47f9807</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='view floor plan'])[1]/preceding::p[11]</value>
+      <webElementGuid>d0a7de8f-2a0c-49ed-9432-7cd74b1fdd7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='location'])[1]/preceding::p[11]</value>
+      <webElementGuid>9de389cb-e12a-46d3-86a4-334ffab6260a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='documents']/parent::*</value>
+      <webElementGuid>1b4db879-6d16-425a-be9d-af74f0f99002</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a/div/p</value>
+      <webElementGuid>9f41d7e6-5feb-4a04-b36a-5ff012af6f8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'documents' or . = 'documents')]</value>
+      <webElementGuid>10c02534-0703-48f2-8040-d07c83f5cfb8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

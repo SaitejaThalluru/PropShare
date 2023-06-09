@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Test Case_2</name>
+   <name>IBC Knowledge Park - Overview page Assertions</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>834524d3-6355-4b73-9803-0b7ddd445906</testCaseGuid>
+   <testCaseGuid>9824d5f2-bae5-45d2-8f71-fcfa5d9d14b0</testCaseGuid>
 </TestCaseEntity>

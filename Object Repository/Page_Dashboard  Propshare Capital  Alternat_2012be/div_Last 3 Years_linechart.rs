@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Last 3 Years_linechart</name>
+   <tag></tag>
+   <elementGuidId>e1d8c37c-96b6-45ba-8a77-b786069fb8b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='linechart']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#linechart</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a67f2078-6e72-4f6b-82e3-367eb5f84fab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>linechart</value>
+      <webElementGuid>e15934e2-bed1-4db9-a6ec-49657de4ac95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;linechart&quot;)</value>
+      <webElementGuid>34ef6737-9d18-4f4b-b183-44034292c201</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='linechart']</value>
+      <webElementGuid>df1387c8-8a4e-451d-9dca-ad859038ef63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div[2]/div/div[2]/div/div[2]/div</value>
+      <webElementGuid>5c849dfc-fc9e-44db-b5c7-9acc862eede6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'linechart']</value>
+      <webElementGuid>81ceee15-85bf-45d1-b87e-b10737ae5df3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

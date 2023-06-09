@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Purchase Price   40 crores</name>
+   <tag></tag>
+   <elementGuidId>72b91b1f-fb51-4035-b3b3-5eacb6f9bdfa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tab1']/div/div[2]/div[2]/div/ul/li[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>3a081fca-56ce-4959-8244-6631e60cd21d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Purchase Price:   40 crores</value>
+      <webElementGuid>313aebcb-91a6-42bb-9197-cf30e8cfbdc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab1&quot;)/div[@class=&quot;overview-wapper&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;overview-options&quot;]/ul[1]/li[2]</value>
+      <webElementGuid>6270484f-6e3b-4eec-9107-524c8097552e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab1']/div/div[2]/div[2]/div/ul/li[2]</value>
+      <webElementGuid>83e06d95-aa71-46b8-b2f9-6076f5c153a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date of Investment:'])[1]/following::li[1]</value>
+      <webElementGuid>81ceb00b-71cb-42ca-9bc2-2510b169eb90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='40 crores']/parent::*</value>
+      <webElementGuid>212e7dc2-c0e4-468f-a537-36841a7805d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/ul/li[2]</value>
+      <webElementGuid>2a645678-97e6-4396-a4bf-52c2bda5fec4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Purchase Price:   40 crores' or . = 'Purchase Price:   40 crores')]</value>
+      <webElementGuid>be3e73d7-4ef9-43d3-92cd-261ccf00a903</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_financials</name>
+   <tag></tag>
+   <elementGuidId>affaeeab-d71d-4b51-844d-ed392517a61a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='IBC Knowledge Park'])[1]/following::p[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>5d69f057-8f4e-4929-843d-4dbcff3a236b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>financials</value>
+      <webElementGuid>f150dc1d-58cc-44c4-bcac-80a0bed19222</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row zero-margin-row-container&quot;]/div[@class=&quot;col-md-10 offset-md-1 offset-sm-0 col-sm-12 col-12 offset-0 no-padding&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row zero-margin-row-container&quot;]/div[@class=&quot;col-md-10 offset-md-1 col-12  overview_content no-padding investment_myproperties investment_myproperties_hidden&quot;]/div[@class=&quot;size-restriction&quot;]/div[@class=&quot;investment_tab_list&quot;]/div[@class=&quot;row property_details&quot;]/div[@class=&quot;col-sm-12 property_indi_details&quot;]/div[@class=&quot;property-detials-tabs&quot;]/ul[@class=&quot;property_list_details&quot;]/li[4]/a[1]/div[@class=&quot;options&quot;]/p[1]</value>
+      <webElementGuid>23aa84e6-c39f-4f3a-a1be-8db766f03605</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IBC Knowledge Park'])[1]/following::p[4]</value>
+      <webElementGuid>2f27b6da-37f7-4481-94ff-8b15bb6847ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to Dashboard'])[1]/following::p[4]</value>
+      <webElementGuid>57e0f88d-a171-4ac4-8913-19366ca2cf71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='view floor plan'])[1]/preceding::p[12]</value>
+      <webElementGuid>f9ad68e5-4260-4ec0-a078-5f7c0aa9430b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='location'])[1]/preceding::p[12]</value>
+      <webElementGuid>1f2b53d7-b8b7-4d9d-a6ab-db90b5164e18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='financials']/parent::*</value>
+      <webElementGuid>fa0aaa60-c56e-4e06-804b-3ef54ab52e89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/div/p</value>
+      <webElementGuid>1e06f06d-5c9b-43a8-a227-7db0c046c5a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'financials' or . = 'financials')]</value>
+      <webElementGuid>a21c5500-25a1-46d4-aa3e-81d03fa76e86</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
