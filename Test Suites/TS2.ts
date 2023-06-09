@@ -12,10 +12,10 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>f4c57d6b-d01e-4dc7-a884-c3a2c2adccfd</testSuiteGuid>
    <testCaseLink>
-      <guid>104e20a0-a0d7-43c2-a434-f772f3a99f6d</guid>
+      <guid>a01d736f-2aa4-4ca0-b0fa-5ddd01a6cacb</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/LandingPage/Landing Page UI</testCaseId>
+      <testCaseId>Test Cases/TestAgentRun</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

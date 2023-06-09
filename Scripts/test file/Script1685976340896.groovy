@@ -46,10 +46,10 @@ WebUI.setText(findTestObject('Existing User/pin 3'), '2')
 
 WebUI.setText(findTestObject('Existing User/Pin 4'), '2')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Existing User/Page_Dashboard  Propshare Capital  Alternat_2012be/div_10                                 investments'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Existing User/EU1/div_10                                 investments'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Existing User/Page_Dashboard  Propshare Capital  Alternat_2012be/div_2,60,00,000                            _de25f6'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Existing User/EU1/div_2,60,00,000                            _de25f6'), 
     0)
 
 WebUI.waitForPageLoad(30)
