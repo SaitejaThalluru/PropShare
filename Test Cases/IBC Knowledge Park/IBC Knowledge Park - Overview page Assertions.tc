@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>Asserts the following data of IBC Knowledge Park
+PuchasePrice
+Area
+CarParks
+CarParksRatio</description>
    <name>IBC Knowledge Park - Overview page Assertions</name>
    <tag></tag>
    <comment></comment>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Data Driven TC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7a5b506-4218-4427-83a5-eeebc9ba43b6</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>7d733b0f-279b-495a-9a9f-7afb00fed6ee</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Data Excel</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>7d733b0f-279b-495a-9a9f-7afb00fed6ee</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Email</value>
+      <variableId>fdf1fc3a-10ab-4f72-8ccc-521b66c1a1ac</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>7d733b0f-279b-495a-9a9f-7afb00fed6ee</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Password</value>
+      <variableId>5137c925-550c-4d19-8206-93498d9b7d40</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fdf1fc3a-10ab-4f72-8ccc-521b66c1a1ac</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5137c925-550c-4d19-8206-93498d9b7d40</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

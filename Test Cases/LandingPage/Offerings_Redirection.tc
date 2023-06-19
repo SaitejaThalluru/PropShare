@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>Verifies Redirection of &quot;Offerings&quot; Button</description>
    <name>Offerings_Redirection</name>
    <tag></tag>
    <comment></comment>

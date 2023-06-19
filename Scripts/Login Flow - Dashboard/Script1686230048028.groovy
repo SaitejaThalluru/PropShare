@@ -27,8 +27,7 @@ WebUI.click(findTestObject('Object Repository/Existing User/Page_Propshare Capit
 
 WebUI.setText(findTestObject('Object Repository/Existing User/Page_Login  PropShare Capital/input_Email Id_email'), 'muthunivas_14920@mailinator.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Existing User/Page_Login  PropShare Capital/input_Password_password'), 
-    '4x7jrnL2W0tdMvSa04lp0A==')
+WebUI.setEncryptedText(findTestObject('Page_Login  PropShare Capital/input_Password_password'), '4x7jrnL2W0tdMvSa04lp0A==')
 
 WebUI.click(findTestObject('Object Repository/Existing User/Page_Login  PropShare Capital/span_Sign In'))
 
@@ -38,6 +37,7 @@ WebUI.click(findTestObject('Object Repository/Test/Page_Login  Propshare Capital
 
 WebUI.setText(findTestObject('Test/Page_Login  Propshare Capital India/input_Enter your PIN_form-control pincode-i_c9f094'), 
     '2')
+
 WebUI.setText(findTestObject('Existing User/Pin 2'), '0')
 
 WebUI.setText(findTestObject('Existing User/pin 3'), '2')

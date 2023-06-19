@@ -94,47 +94,6 @@ for (int i = 0; i < totalScrollsPricing; i++) {
 }
 
 
-WebUI.click(findTestObject('Object Repository/IBC Knowledge Park/Page_Dashboard  Propshare Capital  Alternat_2012be/p_tenancy'))
-WebUI.waitForPageLoad(30)
-
-WebUI.takeScreenshot()
-
-int scrollPositionTenancy = 0
-
-int scrollIncrementTenancy = 500
-
-int totalScrollsTenancy = 2
-
-for (int i = 0; i < totalScrollsTenancy; i++) {
-	scrollPositionTenancy = scrollPositionTenancy + scrollIncrementTenancy
-	String scrollScriptTenancy = "window.scrollTo(0, ${scrollPositionTenancy})"
-	WebUI.executeJavaScript(scrollScriptTenancy, null)
-	WebUI.takeScreenshot()
-	WebUI.delay(1)
-	WebUI.scrollToPosition(0,0)
-}
-
-
-WebUI.click(findTestObject('Object Repository/IBC Knowledge Park/Page_Dashboard  Propshare Capital  Alternat_2012be/p_financials'))
-WebUI.waitForPageLoad(30)
-
-WebUI.takeScreenshot()
-
-int scrollPositionFinancials = 0
-
-int scrollIncrementFinancials = 500
-
-int totalScrollsFinancials = 6
-
-for (int i = 0; i < totalScrollsFinancials; i++) {
-	scrollPosition = scrollPositionFinancials + scrollIncrementFinancials
-	String scrollScriptFinancials = "window.scrollTo(0, ${scrollPositionFinancials})"
-	WebUI.executeJavaScript(scrollScriptFinancials, null)
-	WebUI.takeScreenshot()
-	WebUI.delay(1)
-	WebUI.scrollToPosition(0,0)
-}
-
 
 WebUI.click(findTestObject('Object Repository/IBC Knowledge Park/Page_Dashboard  Propshare Capital  Alternat_2012be/p_documents'))
 WebUI.waitForPageLoad(30)

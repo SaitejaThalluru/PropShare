@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>Asserts the Size, Position and Text of buttons (offers, contactUs, login) in landing Page</description>
    <name>Landing Page Assertions</name>
    <tag></tag>
    <comment></comment>
